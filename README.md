@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Homely](https://github.com/Parship999/Homely)
 
-- 🌱 I’m currently learning **DSA**
+- 🌱 I’m currently learning **Distributed Computing**
 
 - 👯 I’m looking to collaborate on **Open-source projects**
 
