@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/parship-chowdhury-40a37728b/](https://www.linkedin.com/in/parship-chowdhury-40a37728b/)
 
-- ⚡ Fun fact **Building and optimizing projects feels like second nature to me now.**
+- ⚡ Fun fact: **Building and optimizing projects feels like second nature to me now.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
