@@ -7,8 +7,6 @@
 
 - 👯 I’m looking to collaborate on **Open-source projects**
 
-- 🤝 I’m looking for help with **Backend**
-
 - 👨‍💻 All of my projects are available at [https://github.com/Parship999?tab=repositories](https://github.com/Parship999?tab=repositories)
 
 - 💬 Ask me about **React, JavaScript, C++**
