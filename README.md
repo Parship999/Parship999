@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Parship Chowdhury</h1>
-<h3 align="center">A passionate FullStack Developer from India</h3>
 
 - 🌱 I’m currently learning **Distributed Computing and AI**
 
