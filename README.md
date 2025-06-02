@@ -4,7 +4,7 @@
 
 <h1 align="left">Hello, World! Welcome to My Space</h1>
 
-<img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3J2eWd6MXUyenA4dnRybG50cDJseGVuOTU2cWxkZXN3NWljNm5haSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="235" height="235" />
+<img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3J2eWd6MXUyenA4dnRybG50cDJseGVuOTU2cWxkZXN3NWljNm5haSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="225" height="225" />
 
 <h3 align="left">About Me</h3>
 
