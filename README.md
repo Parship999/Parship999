@@ -13,7 +13,7 @@
   Check out my projects and contributions at <a href="https://github.com/Parship999?tab=repositories" target="_blank"><b>GitHub</b></a>. <br><br>
   Fun fact: <i>Building and optimizing projects feels like second nature to me now.</i>
 </p>
-----------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------
 <h3 align="left">Tech Stack I Work With</h3>
 
 <div align="center">
