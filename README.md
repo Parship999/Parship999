@@ -4,18 +4,16 @@
 
 <h1 align="left">Hello, World! Welcome to My Space</h1>
 
-<img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3J2eWd6MXUyenA4dnRybG50cDJseGVuOTU2cWxkZXN3NWljNm5haSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="225" height="225" />
+<img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3J2eWd6MXUyenA4dnRybG50cDJseGVuOTU2cWxkZXN3NWljNm5haSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="235" height="235" />
 
 <h3 align="left">About Me</h3>
 
 <p align="left">
-  Hi, I'm <b>Parship Chowdhury</b> — a technology enthusiast currently delving into <b>Distributed Computing</b> and <b>AI</b>. I'm passionate about collaborating on innovative <b>open-source projects</b> and constantly exploring ways to optimize and innovate. <br><br>
+  Hi, I'm <b>Parship Chowdhury</b> - a technology enthusiast currently delving into <b>Distributed Computing</b> and <b>AI</b>. I'm passionate about collaborating on innovative <b>open-source projects</b> and constantly exploring ways to optimize and innovate. <br><br>
   Check out my projects and contributions at <a href="https://github.com/Parship999?tab=repositories" target="_blank"><b>GitHub</b></a>. <br><br>
   Fun fact: <i>Building and optimizing projects feels like second nature to me now.</i>
 </p>
-
----
-
+----------------------------------------------------------------------------------------------------------------------
 <h3 align="left">Tech Stack I Work With</h3>
 
 <div align="center">
