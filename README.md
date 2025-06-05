@@ -9,7 +9,7 @@
 <h3 align="left">About Me</h3>
 
 <p align="left">
-  Hi, I'm <b>Parship Chowdhury</b> - a technology enthusiast. I'm passionate about learning new technologies collaborating on innovative <b>open-source projects</b> and constantly exploring ways to optimize and innovate. <br><br>
+  Hi, I'm <b>Parship Chowdhury</b> - a technology enthusiast. I'm passionate about learning new technologies and collaborating on innovative <b>open-source projects</b> and constantly exploring ways to optimize and innovate. <br><br>
   Check out my projects and contributions at <a href="https://github.com/Parship999?tab=repositories" target="_blank"><b>GitHub</b></a>. <br><br>
   Fun fact: <i>Building and optimizing projects feels like second nature to me now.</i>
 </p>
