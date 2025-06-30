@@ -2,7 +2,7 @@
   Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I'm Parship!
 </h1>
 
-<img align="right" src="freepik_br_523d2063-4da5-4f5d-8ceb-11cf9187564f.png" height="50%" width="50%" />
+<img align="right" src="freepik_br_523d2063-4da5-4f5d-8ceb-11cf9187564f1111111111.png" height="30%" width="30%" />
 
 <h3 align="left">About Me</h3>
 
