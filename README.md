@@ -1,12 +1,8 @@
-<p align="center">
-  <img src="37116091-computer-programmer-wallpaper.jpg" width="100%" />
-</p>
-
 <h1 align="left">
   Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I'm Parship!
 </h1>
 
-<img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3J2eWd6MXUyenA4dnRybG50cDJseGVuOTU2cWxkZXN3NWljNm5haSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="235" height="235" />
+<img align="right" src="freepik_br_523d2063-4da5-4f5d-8ceb-11cf9187564f.png" height="50%" width="50%" />
 
 <h3 align="left">About Me</h3>
 
