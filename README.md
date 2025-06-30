@@ -12,10 +12,10 @@
   
   <b>Fun fact:</b> <i>My favorite sound? The silence after hitting "run" and not seeing a single error.</i>
 </p>
--------------------------------------------------------------------------
+-----------------------------------------------------------------------
 <h3 align="left">Tech Stack I Work With</h3>
 
-<div align="center">
+<div align="left">
   <img src="https://skillicons.dev/icons?i=c" height="25" alt="c logo" />
   <img width="9" />
   <img src="https://skillicons.dev/icons?i=cpp" height="25" alt="cpp logo" />
