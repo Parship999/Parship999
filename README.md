@@ -16,31 +16,31 @@
 <h3 align="left">Tech Stack I Work With</h3>
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=c" style="height: 35px; width: 35px;" alt="c logo" />
+  <img src="https://skillicons.dev/icons?i=c" style="height: 30px; width: 30px;" alt="c logo" />
   <img width="9" />
-  <img src="https://skillicons.dev/icons?i=cpp" style="height: 35px; width: 35px;" alt="cpp logo" />
+  <img src="https://skillicons.dev/icons?i=cpp" style="height: 30px; width: 30px;" alt="cpp logo" />
   <img width="9" />
-  <img src="https://skillicons.dev/icons?i=javascript" style="height: 35px; width: 35px;" alt="javascript logo" />
+  <img src="https://skillicons.dev/icons?i=javascript" style="height: 30px; width: 30px;" alt="javascript logo" />
   <img width="9" />
-  <img src="https://skillicons.dev/icons?i=react" style="height: 35px; width: 35px;" alt="react logo" />
+  <img src="https://skillicons.dev/icons?i=react" style="height: 30px; width: 30px;" alt="react logo" />
   <img width="9" />
-  <img src="https://skillicons.dev/icons?i=typescript" style="height: 35px; width: 35px;" alt="typescript logo" />
+  <img src="https://skillicons.dev/icons?i=typescript" style="height: 30px; width: 30px;" alt="typescript logo" />
   <img width="9" />
-  <img src="https://skillicons.dev/icons?i=mysql" style="height: 35px; width: 35px;" alt="mysql logo" />
+  <img src="https://skillicons.dev/icons?i=mysql" style="height: 30px; width: 30px;" alt="mysql logo" />
   <img width="9" />
-  <img src="https://skillicons.dev/icons?i=mongodb" style="height: 35px; width: 35px;" alt="mongodb logo" />
+  <img src="https://skillicons.dev/icons?i=mongodb" style="height: 30px; width: 30px;" alt="mongodb logo" />
   <img width="9" />
-  <img src="https://skillicons.dev/icons?i=nodejs" style="height: 35px; width: 35px;" alt="nodejs logo" />
+  <img src="https://skillicons.dev/icons?i=nodejs" style="height: 30px; width: 30px;" alt="nodejs logo" />
   <img width="9" />
-  <img src="https://skillicons.dev/icons?i=express" style="height: 35px; width: 35px;" alt="express logo" />
+  <img src="https://skillicons.dev/icons?i=express" style="height: 30px; width: 30px;" alt="express logo" />
   <img width="9" />
-  <img src="https://skillicons.dev/icons?i=docker" style="height: 35px; width: 35px;" alt="docker logo" />
+  <img src="https://skillicons.dev/icons?i=docker" style="height: 30px; width: 30px;" alt="docker logo" />
   <img width="9" />
-  <img src="https://skillicons.dev/icons?i=redux" style="height: 35px; width: 35px;" alt="redux logo" />
+  <img src="https://skillicons.dev/icons?i=redux" style="height: 30px; width: 30px;" alt="redux logo" />
   <img width="9" />
-  <img src="https://skillicons.dev/icons?i=go" style="height: 35px; width: 35px;" alt="golang logo" />
+  <img src="https://skillicons.dev/icons?i=go" style="height: 30px; width: 30px;" alt="golang logo" />
   <img width="9" />
-  <img src="https://skillicons.dev/icons?i=kubernetes" style="height: 35px; width: 35px;" alt="kubernetes logo" />
+  <img src="https://skillicons.dev/icons?i=kubernetes" style="height: 30px; width: 30px;" alt="kubernetes logo" />
 </div>
 
 
