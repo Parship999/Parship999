@@ -16,43 +16,43 @@
 <h3 align="left">Tech Stack I Work With</h3>
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=c" height="25" alt="c logo" />
+  <img src="https://skillicons.dev/icons?i=c" style="height: 35px; width: 35px;" alt="c logo" />
   <img width="9" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="25" alt="cpp logo" />
+  <img src="https://skillicons.dev/icons?i=cpp" style="height: 35px; width: 35px;" alt="cpp logo" />
   <img width="9" />
-  <img src="https://skillicons.dev/icons?i=javascript" height="25" alt="javascript logo" />
+  <img src="https://skillicons.dev/icons?i=javascript" style="height: 35px; width: 35px;" alt="javascript logo" />
   <img width="9" />
-  <img src="https://skillicons.dev/icons?i=react" height="25" alt="react logo" />
+  <img src="https://skillicons.dev/icons?i=react" style="height: 35px; width: 35px;" alt="react logo" />
   <img width="9" />
-  <img src="https://skillicons.dev/icons?i=typescript" height="25" alt="typescript logo" />
+  <img src="https://skillicons.dev/icons?i=typescript" style="height: 35px; width: 35px;" alt="typescript logo" />
   <img width="9" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="25" alt="mysql logo" />
+  <img src="https://skillicons.dev/icons?i=mysql" style="height: 35px; width: 35px;" alt="mysql logo" />
   <img width="9" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="25" alt="mongodb logo" />
+  <img src="https://skillicons.dev/icons?i=mongodb" style="height: 35px; width: 35px;" alt="mongodb logo" />
   <img width="9" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="25" alt="nodejs logo" />
+  <img src="https://skillicons.dev/icons?i=nodejs" style="height: 35px; width: 35px;" alt="nodejs logo" />
   <img width="9" />
-  <img src="https://skillicons.dev/icons?i=express" height="25" alt="express logo" />
+  <img src="https://skillicons.dev/icons?i=express" style="height: 35px; width: 35px;" alt="express logo" />
   <img width="9" />
-  <img src="https://skillicons.dev/icons?i=docker" height="25" alt="docker logo" />
+  <img src="https://skillicons.dev/icons?i=docker" style="height: 35px; width: 35px;" alt="docker logo" />
   <img width="9" />
-  <img src="https://skillicons.dev/icons?i=redux" height="25" alt="redux logo" />
+  <img src="https://skillicons.dev/icons?i=redux" style="height: 35px; width: 35px;" alt="redux logo" />
   <img width="9" />
-  <img src="https://skillicons.dev/icons?i=go" height="25" alt="golang logo" />
+  <img src="https://skillicons.dev/icons?i=go" style="height: 35px; width: 35px;" alt="golang logo" />
   <img width="9" />
-  <img src="https://skillicons.dev/icons?i=kubernetes" height="25" alt="kubernetes logo" />
+  <img src="https://skillicons.dev/icons?i=kubernetes" style="height: 35px; width: 35px;" alt="kubernetes logo" />
 </div>
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://twitter.com/parship123" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="parship123" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="parship123" height="20" width="35" />
   </a>
   <a href="https://linkedin.com/in/parship-chowdhury-40a37728b" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="parship-chowdhury-40a37728b" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="parship-chowdhury-40a37728b" height="20" width="35" />
   </a>
   <a href="https://stackoverflow.com/users/29977625" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="29977625" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="29977625" height="20" width="35" />
   </a>
 </p>
