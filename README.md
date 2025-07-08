@@ -2,7 +2,7 @@
   Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I'm Parship!
 </h1>
 
-<img align="right" src="freepik_br_523d2063-4da5-4f5d-8ceb-11cf9187564f1111111111.png" height="30%" width="30%" />
+<img align="right" src="freepik_br_523d2063-4da5-4f5d-8ceb-11cf9187564f1111111111.png" height="300%" width="30%" />
 
 <h3 align="left">About Me</h3>
 
@@ -47,12 +47,12 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://twitter.com/parship123" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="parship123" height="20" width="35" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="parship123" height="30" width="45" />
   </a>
   <a href="https://linkedin.com/in/parship-chowdhury-40a37728b" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="parship-chowdhury-40a37728b" height="20" width="35" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="parship-chowdhury-40a37728b" height="30" width="45" />
   </a>
   <a href="https://stackoverflow.com/users/29977625" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="29977625" height="20" width="35" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="29977625" height="30" width="45" />
   </a>
 </p>
